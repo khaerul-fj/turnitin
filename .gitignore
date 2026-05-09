@@ -1,0 +1,8 @@
+.env
+
+codeigniter/vendor/
+python_service/venv/
+python_service/__pycache__/
+
+.DS_Store
+Thumbs.db
