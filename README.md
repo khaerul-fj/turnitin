@@ -1,4 +1,4 @@
-# LogicSense - Intelligence Plagiarism Detection System 🧠🔥
+# LogicSense - Intelligence Plagiarism Detection System 
 
 **LogicSense** adalah sistem deteksi plagiarisme hybrid yang menggabungkan efisiensi **CodeIgniter 4** dengan kekuatan **Natural Language Processing (NLP)** melalui model **Transformer**. Proyek ini merupakan manifestasi dari konsep *Anomali*—membangun sistem yang mandiri, unik, dan presisi.
 
